@@ -9,22 +9,22 @@ export default function Navbar() {
                 <Link href="/" className="text-white/90 no-underline hover:text-white">Lloyd Stevens</Link>
             </h1>
             <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@VidTings">
+                <Link className="text-white/90 hover:text-white" target="_blank" href="https://www.youtube.com/@VidTings">
                     <FaYoutube />
                 </Link>
             </div>
             <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@VidTings">
+                <Link className="text-white/90 hover:text-white" target="_blank" href="https://www.twitter.com">
                     <FaTwitter />
                 </Link>
             </div>
             <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@VidTings">
+                <Link className="text-white/90 hover:text-white" target="_blank" href="https://www.github.com">
                     <FaGithub />
                 </Link>
             </div>
             <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@VidTings">
+                <Link className="text-white/90 hover:text-white" target="_blank" href="#">
                     <FaLaptop />
                 </Link>
             </div>

@@ -6,7 +6,7 @@ import MyProfilePic from './component/MyProfilePic'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Blog 😄',
+  title: "Lloyd's Blog 😄",
   description: 'A blog about me ',
 }
 
