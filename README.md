@@ -3,7 +3,7 @@
 icons not fully working check these on navbar, one of the tailwind stylings is likely to be a typo
 https://youtu.be/843nec-IvW0?t=9932
 
-
+Update Nav Bar with any other todos
 
 
 # README
