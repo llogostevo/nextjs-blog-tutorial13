@@ -1,4 +1,4 @@
-
+import Posts from "./component/Posts"
 export default function Home() {
   return (
     <main className="px-6 mx-auto">
@@ -6,9 +6,10 @@ export default function Home() {
       <p className="mt-12 mb-12 text-3xl text-center dark:text-white">
         Hello and Welcome 👋&nbsp;
         <span className="whitespace-nowrap">
-          I'm <span className="font-bold">Lloyd</span>
+          I&apos;m <span className="font-bold">Lloyd</span>
         </span>
       </p>
+      <Posts />
     </main>
   )
 }
